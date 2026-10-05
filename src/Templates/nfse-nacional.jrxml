@@ -72,21 +72,21 @@
   <detail>
     <band height="820" splitType="Immediate">
       <rectangle>
-        <reportElement uuid="9a64816e-5f3c-45c2-8028-bf14175ec4ed" x="0" y="0" width="574" height="1" forecolor="rgba(0, 0, 0, 0.0)" backcolor="rgba(3, 3, 3, 0.9764706)" mode="Opaque"/>
+        <reportElement uuid="9a64816e-5f3c-45c2-8028-bf14175ec4ed" x="0" y="0" width="574" height="1" forecolor="#FFFFFF" backcolor="#090909" mode="Opaque"/>
         <graphicElement>
-          <pen lineWidth="0" lineStyle="Solid" lineColor="rgba(0, 0, 0, 0.0)"/>
+          <pen lineWidth="0" lineStyle="Solid" lineColor="#FFFFFF"/>
         </graphicElement>
       </rectangle>
       <rectangle>
-        <reportElement uuid="a65dfa33-af14-4054-a05b-126f9854be39" x="0" y="0" width="1" height="820" forecolor="rgba(0, 0, 0, 0.0)" backcolor="rgba(3, 3, 3, 0.9764706)" mode="Opaque"/>
+        <reportElement uuid="a65dfa33-af14-4054-a05b-126f9854be39" x="0" y="0" width="1" height="820" forecolor="#FFFFFF" backcolor="#090909" mode="Opaque"/>
         <graphicElement>
-          <pen lineWidth="0" lineStyle="Solid" lineColor="rgba(0, 0, 0, 0.0)"/>
+          <pen lineWidth="0" lineStyle="Solid" lineColor="#FFFFFF"/>
         </graphicElement>
       </rectangle>
       <rectangle>
-        <reportElement uuid="78df0310-cd55-4990-954f-e81207825d74" x="573" y="0" width="1" height="820" forecolor="rgba(0, 0, 0, 0.0)" backcolor="rgba(3, 3, 3, 0.9764706)" mode="Opaque"/>
+        <reportElement uuid="78df0310-cd55-4990-954f-e81207825d74" x="573" y="0" width="1" height="820" forecolor="#FFFFFF" backcolor="#090909" mode="Opaque"/>
         <graphicElement>
-          <pen lineWidth="0" lineStyle="Solid" lineColor="rgba(0, 0, 0, 0.0)"/>
+          <pen lineWidth="0" lineStyle="Solid" lineColor="#FFFFFF"/>
         </graphicElement>
       </rectangle>
       <staticText>
@@ -126,9 +126,9 @@
         <textFieldExpression><![CDATA[$P{avisoHomologacao}]]></textFieldExpression>
       </textField>
       <rectangle>
-        <reportElement uuid="50e9dec9-9f68-442b-9245-fc116fe0939e" x="0" y="45" width="574" height="1" forecolor="rgba(0, 0, 0, 0.0)" backcolor="rgba(3, 3, 3, 0.9764706)" mode="Opaque"/>
+        <reportElement uuid="50e9dec9-9f68-442b-9245-fc116fe0939e" x="0" y="45" width="574" height="1" forecolor="#FFFFFF" backcolor="#090909" mode="Opaque"/>
         <graphicElement>
-          <pen lineWidth="0" lineStyle="Solid" lineColor="rgba(0, 0, 0, 0.0)"/>
+          <pen lineWidth="0" lineStyle="Solid" lineColor="#FFFFFF"/>
         </graphicElement>
       </rectangle>
       <staticText>
@@ -243,9 +243,9 @@
         <text>A autenticidade desta NFS-e pode ser verificada pela leitura deste código QR ou pela consulta da chave de acesso no portal nacional da NFS-e</text>
       </staticText>
       <rectangle>
-        <reportElement uuid="4717a298-19cb-413a-aa2b-fcc42ae2c976" x="0" y="140" width="574" height="1" forecolor="rgba(0, 0, 0, 0.0)" backcolor="rgba(3, 3, 3, 0.9764706)" mode="Opaque"/>
+        <reportElement uuid="4717a298-19cb-413a-aa2b-fcc42ae2c976" x="0" y="140" width="574" height="1" forecolor="#FFFFFF" backcolor="#090909" mode="Opaque"/>
         <graphicElement>
-          <pen lineWidth="0" lineStyle="Solid" lineColor="rgba(0, 0, 0, 0.0)"/>
+          <pen lineWidth="0" lineStyle="Solid" lineColor="#FFFFFF"/>
         </graphicElement>
       </rectangle>
       <staticText>
@@ -405,9 +405,9 @@
         <textFieldExpression><![CDATA[$P{regApTribSN}]]></textFieldExpression>
       </textField>
       <rectangle>
-        <reportElement uuid="3692fd14-c1c5-4368-8588-6812f6e63ab0" x="0" y="248" width="574" height="1" forecolor="rgba(0, 0, 0, 0.0)" backcolor="rgba(3, 3, 3, 0.9764706)" mode="Opaque"/>
+        <reportElement uuid="3692fd14-c1c5-4368-8588-6812f6e63ab0" x="0" y="248" width="574" height="1" forecolor="#FFFFFF" backcolor="#090909" mode="Opaque"/>
         <graphicElement>
-          <pen lineWidth="0" lineStyle="Solid" lineColor="rgba(0, 0, 0, 0.0)"/>
+          <pen lineWidth="0" lineStyle="Solid" lineColor="#FFFFFF"/>
         </graphicElement>
       </rectangle>
       <staticText>
@@ -532,9 +532,9 @@
         <textFieldExpression><![CDATA[$P{tomaxLgr}]]></textFieldExpression>
       </textField>
       <rectangle>
-        <reportElement uuid="a8f6b80c-2f6e-413f-bdb2-6bdb6177efa5" x="0" y="332" width="574" height="1" forecolor="rgba(0, 0, 0, 0.0)" backcolor="rgba(3, 3, 3, 0.9764706)" mode="Opaque"/>
+        <reportElement uuid="a8f6b80c-2f6e-413f-bdb2-6bdb6177efa5" x="0" y="332" width="574" height="1" forecolor="#FFFFFF" backcolor="#090909" mode="Opaque"/>
         <graphicElement>
-          <pen lineWidth="0" lineStyle="Solid" lineColor="rgba(0, 0, 0, 0.0)"/>
+          <pen lineWidth="0" lineStyle="Solid" lineColor="#FFFFFF"/>
         </graphicElement>
       </rectangle>
       <staticText>
@@ -545,9 +545,9 @@
         <text>INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e</text>
       </staticText>
       <rectangle>
-        <reportElement uuid="66f658eb-fd8d-495c-a207-ba1741897a36" x="0" y="346" width="574" height="1" forecolor="rgba(0, 0, 0, 0.0)" backcolor="rgba(3, 3, 3, 0.9764706)" mode="Opaque"/>
+        <reportElement uuid="66f658eb-fd8d-495c-a207-ba1741897a36" x="0" y="346" width="574" height="1" forecolor="#FFFFFF" backcolor="#090909" mode="Opaque"/>
         <graphicElement>
-          <pen lineWidth="0" lineStyle="Solid" lineColor="rgba(0, 0, 0, 0.0)"/>
+          <pen lineWidth="0" lineStyle="Solid" lineColor="#FFFFFF"/>
         </graphicElement>
       </rectangle>
       <staticText>
@@ -628,9 +628,9 @@
         <textFieldExpression><![CDATA[$P{xDescServ}]]></textFieldExpression>
       </textField>
       <rectangle>
-        <reportElement uuid="a12bd37d-e3cf-491b-bbad-788aeea5f721" x="0" y="436" width="574" height="1" forecolor="rgba(0, 0, 0, 0.0)" backcolor="rgba(3, 3, 3, 0.9764706)" mode="Opaque"/>
+        <reportElement uuid="a12bd37d-e3cf-491b-bbad-788aeea5f721" x="0" y="436" width="574" height="1" forecolor="#FFFFFF" backcolor="#090909" mode="Opaque"/>
         <graphicElement>
-          <pen lineWidth="0" lineStyle="Solid" lineColor="rgba(0, 0, 0, 0.0)"/>
+          <pen lineWidth="0" lineStyle="Solid" lineColor="#FFFFFF"/>
         </graphicElement>
       </rectangle>
       <staticText>
@@ -865,9 +865,9 @@
         <textFieldExpression><![CDATA[$P{tpRetISSQN}]]></textFieldExpression>
       </textField>
       <rectangle>
-        <reportElement uuid="b60180df-7aa8-41aa-935a-bc9a2855a658" x="0" y="552" width="574" height="1" forecolor="rgba(0, 0, 0, 0.0)" backcolor="rgba(3, 3, 3, 0.9764706)" mode="Opaque"/>
+        <reportElement uuid="b60180df-7aa8-41aa-935a-bc9a2855a658" x="0" y="552" width="574" height="1" forecolor="#FFFFFF" backcolor="#090909" mode="Opaque"/>
         <graphicElement>
-          <pen lineWidth="0" lineStyle="Solid" lineColor="rgba(0, 0, 0, 0.0)"/>
+          <pen lineWidth="0" lineStyle="Solid" lineColor="#FFFFFF"/>
         </graphicElement>
       </rectangle>
       <staticText>
@@ -976,9 +976,9 @@
         <textFieldExpression><![CDATA[$P{tpRetPisCofins}]]></textFieldExpression>
       </textField>
       <rectangle>
-        <reportElement uuid="9ff2154a-ecab-432e-a0de-f9e2b20a17b1" x="0" y="618" width="574" height="1" forecolor="rgba(0, 0, 0, 0.0)" backcolor="rgba(3, 3, 3, 0.9764706)" mode="Opaque"/>
+        <reportElement uuid="9ff2154a-ecab-432e-a0de-f9e2b20a17b1" x="0" y="618" width="574" height="1" forecolor="#FFFFFF" backcolor="#090909" mode="Opaque"/>
         <graphicElement>
-          <pen lineWidth="0" lineStyle="Solid" lineColor="rgba(0, 0, 0, 0.0)"/>
+          <pen lineWidth="0" lineStyle="Solid" lineColor="#FFFFFF"/>
         </graphicElement>
       </rectangle>
       <staticText>
@@ -1087,9 +1087,9 @@
         <textFieldExpression><![CDATA[$P{vLiq}]]></textFieldExpression>
       </textField>
       <rectangle>
-        <reportElement uuid="1a9ff522-4647-4fa4-8b06-0f7aaa8dc090" x="0" y="684" width="574" height="1" forecolor="rgba(0, 0, 0, 0.0)" backcolor="rgba(3, 3, 3, 0.9764706)" mode="Opaque"/>
+        <reportElement uuid="1a9ff522-4647-4fa4-8b06-0f7aaa8dc090" x="0" y="684" width="574" height="1" forecolor="#FFFFFF" backcolor="#090909" mode="Opaque"/>
         <graphicElement>
-          <pen lineWidth="0" lineStyle="Solid" lineColor="rgba(0, 0, 0, 0.0)"/>
+          <pen lineWidth="0" lineStyle="Solid" lineColor="#FFFFFF"/>
         </graphicElement>
       </rectangle>
       <staticText>
@@ -1142,9 +1142,9 @@
         <textFieldExpression><![CDATA[$P{vTotTribMun}]]></textFieldExpression>
       </textField>
       <rectangle>
-        <reportElement uuid="48a4caa6-6761-4561-a3dd-fe32b195da61" x="0" y="722" width="574" height="1" forecolor="rgba(0, 0, 0, 0.0)" backcolor="rgba(3, 3, 3, 0.9764706)" mode="Opaque"/>
+        <reportElement uuid="48a4caa6-6761-4561-a3dd-fe32b195da61" x="0" y="722" width="574" height="1" forecolor="#FFFFFF" backcolor="#090909" mode="Opaque"/>
         <graphicElement>
-          <pen lineWidth="0" lineStyle="Solid" lineColor="rgba(0, 0, 0, 0.0)"/>
+          <pen lineWidth="0" lineStyle="Solid" lineColor="#FFFFFF"/>
         </graphicElement>
       </rectangle>
       <staticText>
@@ -1183,9 +1183,9 @@
         <textFieldExpression><![CDATA[$P{infCompl}]]></textFieldExpression>
       </textField>
       <rectangle>
-        <reportElement uuid="b1ef2810-52cb-4362-97db-3810c35db794" x="0" y="819" width="574" height="1" forecolor="rgba(0, 0, 0, 0.0)" backcolor="rgba(3, 3, 3, 0.9764706)" mode="Opaque"/>
+        <reportElement uuid="b1ef2810-52cb-4362-97db-3810c35db794" x="0" y="819" width="574" height="1" forecolor="#FFFFFF" backcolor="#090909" mode="Opaque"/>
         <graphicElement>
-          <pen lineWidth="0" lineStyle="Solid" lineColor="rgba(0, 0, 0, 0.0)"/>
+          <pen lineWidth="0" lineStyle="Solid" lineColor="#FFFFFF"/>
         </graphicElement>
       </rectangle>
     </band>
