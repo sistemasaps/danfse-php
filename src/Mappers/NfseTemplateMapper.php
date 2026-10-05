@@ -136,7 +136,7 @@ class NfseTemplateMapper implements TemplateDataMapper
      */
     private function homologationNotice(mixed $source, array $dps): string
     {
-        $tpAmb = $this->value($source, 'tpAmb', $dps['tpAmb'] ?? null);
+        $tpAmb = $this->value($source, 'tpAmb', $dps['tpAmb'] ?? dps['tipoAmbiente'] ?? null);
 
         return (int) $tpAmb === 2 ? 'NFS-e SEM VALIDADE JURÍDICA' : '';
     }
